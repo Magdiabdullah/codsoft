@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699013831 source:c:\users\magdi abdullah\onedrive\desktop\codsoft\projects\task 2\calculater\main.cpp
+	<iostream>
+	<cmath>
+

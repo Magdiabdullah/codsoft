@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698918694 source:c:\users\magdi abdullah\onedrive\desktop\codsoft\projects\task 1\gussing number game\main.xpp.c
+
+1698938554 source:c:\users\magdi abdullah\onedrive\desktop\codsoft\projects\task 1\gussing number game\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

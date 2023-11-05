@@ -1,0 +1,13 @@
+The game features:
+A 3x3 grid as the game board
+Player input prompts for each move
+Real-time display of the board
+Win and draw checks after every move
+Seamless player switching between "X" and "O
+But wait, there's more! After the game, players have the chance to play again and continue the excitement.
+
+
+
+
+
+

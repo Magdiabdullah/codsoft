@@ -1,0 +1,5 @@
+
+Features include:
+Input two numbers with ease 
+Choose from addition, subtraction, multiplication, division operations, and some other operation 🎲
+Instant display of the calculated result on the go 
